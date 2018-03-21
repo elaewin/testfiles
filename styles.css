@@ -27,3 +27,7 @@ p {
     font-family: "Bevan", serif;
     margin: 0em 1em;
 }
+
+.unstyled {
+    font-family: "Arial", sans-serif;
+}
