@@ -1,6 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative');
 
+@font-face {
+    font-family: notExistFont;
+    src: url('NotExist.ttf');
+}
+
 * {
     color: purple;
     font-size: 16px;
@@ -26,6 +31,11 @@ img {
 p {
     font-family: "Bevan", serif;
     margin: 0em 1em;
+}
+
+.badfont {
+    font-family: "notExistFont", sans-serif;
+    font-size: 115%;
 }
 
 .unstyled {
