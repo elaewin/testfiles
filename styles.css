@@ -18,7 +18,7 @@ h1 {
     margin: 1.5em .5em;
 }
 
-/* h2 {
+h2 {
     font-family: "Ubuntu", sans-serif;   
     font-size: 150%;
     margin: 1em .5em;
@@ -41,4 +41,4 @@ p {
 .unstyled {
     font-family: "Arial", sans-serif;
     font-size: 100%;
-} */
+}
